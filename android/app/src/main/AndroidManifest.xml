@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.wallpaper">
+    package="app.wallpaper">
    <application
         android:label="wallpaper"
         android:icon="@mipmap/ic_launcher">
